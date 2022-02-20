@@ -1,0 +1,41 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Outfit', sans-serif;
+}
+.qr-card {
+    background-color: hsl(0, 0%, 100%);
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.description {
+    justify-content: center;
+    text-align: center;
+    margin: 0 20px 20px 20px;
+}
+h1 {
+    font-size: 20px;
+    font-weight: 700;
+}
+p{
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+}
+.qr-code {
+    margin: -10px 15px 10px 15px;
+    height: 55%;
+    border-radius: 15px;
+}
+.attribution {
+    margin-top: 100px;
+    width: 300px;
+}
