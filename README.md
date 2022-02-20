@@ -1,3 +1,6 @@
+# Solution
+ https://dawidpoznanski.github.io/frontendMentor-qrCode/
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
